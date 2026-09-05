@@ -8,7 +8,7 @@ A responsive one-page website for an early-stage PhD student, built with semanti
 - Research
 - Selected Publications
 
-The Scholar and CV destinations, along with Selected Publications, are intentionally blank until they are ready to be added.
+Selected Publications is intentionally blank until papers are ready to be added.
 
 ## Edit the site
 

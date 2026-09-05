@@ -89,11 +89,6 @@ a:focus-visible {
   margin-left: 14px;
 }
 
-.blank-link {
-  color: var(--muted);
-  pointer-events: none;
-}
-
 .page > section:not(.profile) {
   padding: 16px;
 }
