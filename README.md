@@ -4,13 +4,11 @@ A responsive one-page website for an early-stage PhD student, built with semanti
 
 ## Sections
 
-- Introduction
-- About
-- Research approach
-- Current focus
-- Contact
+- Profile and short introduction
+- Research
+- Selected Publications
 
-The site intentionally leaves out a publications list until there is work ready to share.
+The Scholar and CV destinations, along with Selected Publications, are intentionally blank until they are ready to be added.
 
 ## Edit the site
 
