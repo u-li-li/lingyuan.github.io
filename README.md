@@ -1,14 +1,12 @@
 # Ling Yuan (凌源) — Personal Academic Website
 
-A responsive one-page website for an early-stage PhD student, built with semantic HTML and CSS for GitHub Pages.
+A one-page website for PhD student, built with semantic HTML and CSS for GitHub Pages.
 
 ## Sections
 
 - Profile and short introduction
 - Research
 - Selected Publications
-
-Selected Publications is intentionally blank until papers are ready to be added.
 
 ## Edit the site
 
